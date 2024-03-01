@@ -9,7 +9,7 @@
 
 <h2>
 <a href="https://youtu.be/KmymjKUp3lw">
- Watch From Episone 1
+ Watch From First Episode
 </a>
 </h2>
 
