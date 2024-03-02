@@ -23,5 +23,3 @@
 
 <img style='border-radius: 5%;' src="https://cdn.dribbble.com/userupload/2559178/file/original-0574b4fd5361a269b909b1d8abc37c6b.png?resize=1600x1200" alt="Screenshot-1">
 
-## Alert:
-Once the Series is Fully done on the Youtube the full code would be here for everyone to use 💖
